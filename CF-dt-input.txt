@@ -1,0 +1,14 @@
+residual2 ratio1 egm1 TS2 Strong
+residual2 ratio1 egm1 TS1 Weak
+residual3 ratio1 egm1 TS2 Strong
+residual1 ratio3 egm1 TS2 Strong
+residual1 ratio2 egm2 TS2 Strong
+residual1 ratio2 egm2 TS1 Weak
+residual3 ratio2 egm2 TS1 Strong
+residual2 ratio3 egm1 TS2 Weak
+residual2 ratio2 egm2 TS2 Strong
+residual1 ratio3 egm2 TS2 Strong
+residual2 ratio3 egm2 TS1 Strong
+residual3 ratio3 egm1 TS1 Strong
+residual3 ratio1 egm2 TS2 Strong
+residual1 ratio3 egm1 TS1 Weak
