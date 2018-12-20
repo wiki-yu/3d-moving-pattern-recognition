@@ -1,0 +1,7 @@
+medium small dissimilar medium
+big small dissimilar weak
+big medium dissimilar medium
+medium medium dissimilar medium
+small small dissimilar medium
+big medium dissimilar weak
+big medium dissimilar weak

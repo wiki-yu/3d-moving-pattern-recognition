@@ -1,0 +1,5 @@
+big small dissimilar weak
+small big similar strong
+big medium dissimilar weak
+big medium dissimilar weak
+small big similar strong

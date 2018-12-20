@@ -1,0 +1,6 @@
+Medium small dissimilar medium
+big medium dissimilar medium
+medium medium dissimilar medium
+small big similar strong
+small small dissimilar medium
+small big similar strong

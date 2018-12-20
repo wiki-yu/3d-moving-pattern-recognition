@@ -1,0 +1,25 @@
+medium	big	similar	rest
+medium	big	dissimilar	rest
+big	medium	similar	rest
+small	medium	dissimilar	rest
+Medium	small	dissimilar	rest
+big	small	dissimilar	rest
+medium	medium	similar	rest
+small	medium	similar	rest
+small	medium	similar	rest
+medium	big	dissimilar	rest
+big	medium	dissimilar	rest
+medium	medium	dissimilar	rest
+small	medium	dissimilar	rest
+small	big	 similar	rest
+small	big	dissimilar	rest
+small	big	dissimilar	rest
+small	medium	similar	rest
+small	small	dissimilar	rest
+big	medium	dissimilar	weak
+big	medium	dissimilar	weak
+small	big	similar	rest
+
+
+
+
